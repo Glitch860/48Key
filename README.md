@@ -8,7 +8,8 @@ The base was modified to give the keyboard some extra height and clearance for t
 Used M2.5-6 bolts and nuts to connect the base and the case together.
 
 Printed on SOVOL SV06+
-.2 mm layer height
-3 perimeters
-20% infill Concentric with Monotonic top fill
-Ironing enabled
+Settings:
+- .2 mm layer height
+- 3 perimeters
+- 20% infill Concentric with Monotonic top fill
+- Ironing enabled
